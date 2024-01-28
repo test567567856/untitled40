@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 ghbdtn
 dratuti
+priveti
 
 ### Eclipse ###
 .apt_generated
